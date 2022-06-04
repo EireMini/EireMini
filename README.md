@@ -34,8 +34,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=EireMini&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EireMini&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EireMini&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eiremini" alt="eiremini" /></a> </p>
+![](https://github-profile-trophy.vercel.app/?username=eiremini&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ## 😂 Random Developer Meme
 <img src="https://random-memer.herokuapp.com/" height="256px" width="256px"/>
