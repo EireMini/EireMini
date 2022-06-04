@@ -9,7 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eiremini&label=Profile%20views&color=0e75b6&style=flat" alt="eiremini" /> <br/></p>
 
-
 ## 🌐 Socials - Connect with me:
 <a href="https://twitter.com/imthemini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imthemini" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/eiremini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eiremini" height="30" width="40" /></a>
@@ -32,12 +31,14 @@
 
 
 ## 📈 Stats:
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eiremini&show_icons=true&locale=en" alt="eiremini" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eiremini&" alt="eiremini" />
-</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eiremini&show_icons=true&locale=en&layout=compact" alt="eiremini" /></p>
+![](https://github-readme-stats.vercel.app/api?username=EireMini&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=EireMini&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EireMini&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eiremini" alt="eiremini" /></a> </p>
 
 ## 😂 Random Developer Meme
 <img src="https://random-memer.herokuapp.com/" height="256px" width="256px"/>
+
+## ✍️ Random Developer Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
