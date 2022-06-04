@@ -32,12 +32,12 @@
 
 
 ## 📈 Stats:
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=eiremini&show_icons=true&locale=en" alt="eiremini" /></p>
-<p align="right"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=eiremini&" alt="eiremini" /></p>
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=eiremini&show_icons=true&locale=en" alt="eiremini" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eiremini&" alt="eiremini" />
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eiremini&show_icons=true&locale=en&layout=compact" alt="eiremini" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eiremini" alt="eiremini" /></a> </p>
-<br/>
-
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eiremini" alt="eiremini" /></a> </p>
 
 ## 😂 Random Developer Meme
 <img src="https://random-memer.herokuapp.com/" height="256px" width="256px"/>
