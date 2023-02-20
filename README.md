@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Conor</h1>
 <h3 align="center">A passionate full stack developer from Ireland <img src="https://raw.githubusercontent.com/csmoore/country-flag-icons/master/country-flags-4x3-png/ie.png" alt="Ireland flag" height="15" width="20" /></h3>
 
-- 🔭 I’m currently working on [CryptoCon](https://github.com/EireMini/CryptoCon)
+- 🔭 I’m currently working on [CryptoCon](https://github.com/EireMini/CryptoCon) (Currently Private)
 
 - 🌱 I’m currently learning **as much as I can, while I can :)**
 
